@@ -10,7 +10,7 @@ URI = 'http://127.0.0.1:5000'
 
 st.title('Neural Network Visualizer')
 st.sidebar.markdown('# Input Image')
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 if st.button('Get random predictions'):
     response = requests.post(URI, data={})
     response = json.loads(response.text)
