@@ -1,4 +1,4 @@
-# Neural-Network-Neuralizer
+# Neural-Network-Visualizer
 
 ## To run
 
@@ -13,3 +13,8 @@ Then run app.py using command line.
 ```
 streamlit run app.py
 ```
+
+## Some Sample Output Screenshots
+
+![SS1](Output-SS/1.png/?raw=true "Output")
+![SS2](Output-SS/2.png/?raw=true "Output")
