@@ -4,12 +4,12 @@
 
 First run the python notebook Train a Neural Network.ipynb
 
-Then run the ml_server.py using command line
+Then run the ml_server.py using terminal
 ```
 python ml_server.py
 ```
 
-Then run app.py using command line.
+Then run app.py using terminal.
 ```
 streamlit run app.py
 ```
